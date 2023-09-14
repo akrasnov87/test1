@@ -1,3 +1,5 @@
+git init - инициализация
+
 git add .
-git commmit -m "описание доработки"
+git commit -m "описание доработки"
 git push
